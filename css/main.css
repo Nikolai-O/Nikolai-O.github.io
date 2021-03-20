@@ -154,7 +154,7 @@ body {
     z-index: 2;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 349px) {
     .display-4 {
         font-size: 1.9rem;
     }
